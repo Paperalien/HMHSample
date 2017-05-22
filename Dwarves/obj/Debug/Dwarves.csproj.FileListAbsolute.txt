@@ -1,0 +1,6 @@
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\bin\Debug\Dwarves.exe.config
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\bin\Debug\Dwarves.exe
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\bin\Debug\Dwarves.pdb
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\obj\Debug\Dwarves.csprojResolveAssemblyReference.cache
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\obj\Debug\Dwarves.exe
+C:\Users\cmkno\Source\Repos\HMHSample\Dwarves\obj\Debug\Dwarves.pdb

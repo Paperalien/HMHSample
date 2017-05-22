@@ -12,7 +12,7 @@ namespace Dwarves
         {
             var palindromes = new List<string>();
             var dwarves = new List<string> { "Gimli", "Fili", "Ilif", "Ilmig", "Mark" };
-            var reversedDwarves = dwarves.Select(d => { d = new string(d.ToCharArray().Reverse().ToArray()).ToLower(); return d;}); 
+            var reversedDwarves = dwarves.Select(d => { d = new string(d.ToCharArray().Reverse().ToArray()); return d;}); 
             
             foreach(var dwarf in dwarves)
             {
